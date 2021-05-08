@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Ismail Egilmez
 tagline: Business Development
-featuredImage: /assets/rsz_1ismailegilmezprofilepicture2021_2.jpg
+featuredImage: /assets/rsz_img-20200803-wa0017.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
