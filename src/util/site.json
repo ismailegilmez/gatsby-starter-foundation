@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "This is the personal website of Ismail Egilmez",
     "siteUrl": "https://ismailegilmez.com",
-    "image": "/assets/ie-logo-white-t.svg",
-    "iconimage": "/assets/ie-logo-dark-t.svg",
+    "image": "/assets/ie-logo-dark-t.svg",
+    "iconimage": "/assets/ie-logo-white-t.svg",
     "twitterUsername": "@IsmailEgilmez4"
   },
   "ga": "UA-XXXXXXXXX-X"
