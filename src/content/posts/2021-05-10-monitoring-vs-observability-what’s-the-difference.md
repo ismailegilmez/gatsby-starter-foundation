@@ -6,4 +6,4 @@ date: 2020-11-18 00:57
 description: observability
 ---
 Please find the blog posted 
-(<a href="https://thenewstack.io/monitoring-vs-observability-whats-the-difference/"_blank">in The New Stack</a>)
+(<a href="https://thenewstack.io/monitoring-vs-observability-whats-the-difference" target="_blank">in Medium</a>)
