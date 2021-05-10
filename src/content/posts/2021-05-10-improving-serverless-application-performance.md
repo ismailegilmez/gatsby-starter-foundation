@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Improving Serverless Application Performance
-slug: improving-serverless-application-performance
+slug: /improving-serverless-application-performance
 date: 2020-01-14 22:50
 description: serverless performance improvement
 ---
