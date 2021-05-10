@@ -6,4 +6,4 @@ date: 2020-05-07 00:54
 description: serverless
 ---
 Please find the blog posted 
-(<a href="https://jaxenter.com/monitoring-serverless-applications-thundra-171702.html" target="_blank">in Medium</a>)
+(<a href="https://jaxenter.com/monitoring-serverless-applications-thundra-171702.html" target="_blank">in The New Stack</a>)
