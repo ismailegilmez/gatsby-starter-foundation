@@ -19,7 +19,7 @@ module.exports = {
   {
     resolve: 'gatsby-source-medium-feed',
     options: {
-      userName: '@...', // Medium user name
+      userName: '@i.egilmez', // Medium user name
       name: 'MediumFeed', // GraphQL query AllMediumFeed
     },
   },
