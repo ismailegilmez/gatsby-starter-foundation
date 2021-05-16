@@ -16,6 +16,13 @@ module.exports = {
   siteMetadata: settings.meta,
   plugins: [
     {
+    resolve: 'gatsby-source-medium-feed',
+    options: {
+      userName: '@i.egilmez', // Medium user name
+      name: 'MediumFeed', // GraphQL query AllMediumFeed
+    },
+  },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/assets/`,
