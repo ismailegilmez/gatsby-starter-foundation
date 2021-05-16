@@ -5,4 +5,5 @@ title: About Ismail
 ---
 Thank you for visiting!
 
-I graduated from computer engineering and I've started my professional career in 2009 as a sales engineer in Doha, Qatar. I learned about outside sales in my first job experience. I've submitted offers in tenders and took part in big projects.
+I'm a sales guy who constantly learns new things about the tech and non-tech world. I've practiced inside sales, outside sales, channel and partnership management, business development, content marketing, growth marketing, and more throughout my career. I love learning and writing about cloud technologies.
+
