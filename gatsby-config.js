@@ -14,17 +14,6 @@ const settings = require("./src/util/site.json")
 
 module.exports = {
   siteMetadata: settings.meta,
-  
-  plugins: [
-  {
-    resolve: 'gatsby-source-medium-feed',
-    options: {
-      userName: '@i.egilmez', // Medium user name
-      name: 'MediumFeed', // GraphQL query AllMediumFeed
-    },
-  },
-]
-
   plugins: [
     {
     resolve: 'gatsby-source-medium-feed',
